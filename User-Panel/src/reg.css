@@ -1,0 +1,59 @@
+/* body{
+    background-image: linear-gradient( to bottom right,  rgb(142, 142, 234),rgb(6, 240, 186), rgb(203, 33, 237));
+    height: 100vh;
+} */
+.FormValidation{
+    background-color: rgba(56, 53, 53, 0.342);
+    text-align: center;
+    margin: 40px 480px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+h1{
+    text-align: left;
+    margin: 0%;
+    margin-bottom:20px
+}
+p{
+    margin: 0%;
+}
+.FormValidation h1{
+    color: black;
+}
+.side-label{
+    font-weight: 650;
+    display: block;
+    text-align: start;
+}
+.inputbox{
+    width: 100%;
+}
+h3{
+    margin: 0%;
+    font-size: 16px;
+    font-weight: 750;
+    text-align: start;
+}
+
+.gen{
+    font-weight: 500;
+    font-size: 15px;
+}
+.gender{
+    margin: 13px 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.submitbtn{
+    padding: 5px 20px;
+    border-radius: 5px;
+    background-image: linear-gradient( to right,  rgb(30, 233, 185), rgb(209, 136, 214));
+    color: white;
+    width: 100%;
+    font-weight: 650;
+
+}
+
+.col-6 img{
+    width: 20px;
+}

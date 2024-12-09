@@ -1,0 +1,40 @@
+/* body{
+    height: 100vh;
+    background-color: rgb(122, 189, 103) !important; 
+} */
+.login{
+    background-color: rgba(56, 53, 53, 0.342);
+    padding: 20px 20px;
+    margin: 15% 35%;text-align: center;
+    border-radius: 20px;
+}
+input{
+    background-color: rgb(237, 236, 235) !important;
+    text-align: left !important;
+}
+
+.submitbtn{
+    background-color: rgb(71, 162, 77) !important;
+    border-radius: 0%;
+    padding: 6px 190px;
+}
+
+input::placeholder{
+    text-align: left;
+}
+
+a{
+    margin: 10px 0px 15px 0px;
+    color: black !important;
+}
+
+a span{
+    color:rgb(249, 251, 249);
+}
+
+.login .forget-link{
+    padding: 0%;
+    margin: 0%;
+    margin-bottom: 15px;
+    
+}
